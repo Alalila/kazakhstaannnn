@@ -1,0 +1,10 @@
+            h1 {
+                font-style: italic;
+                font-size: 100px;
+            }
+
+            .button {
+                display: block;
+                margin: auto;
+                width: fit-content;
+            }
